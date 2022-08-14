@@ -1,7 +1,0 @@
-Commands:
-
-python3 ./gnutella-peer.py 8025
-python3 ./gnutella-peer.py 8027 DESKTOP-3T6OOD5:8025
-python3 ./gnutella-peer.py 8028 DESKTOP-3T6OOD5:8027
-python3 ./gnutella-peer.py 8029 DESKTOP-3T6OOD5:8028
-python3 ./gnutella-peer.py 8026 DESKTOP-3T6OOD5:8025
